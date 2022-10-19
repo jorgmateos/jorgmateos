@@ -1,4 +1,4 @@
-Hi there 👋🏻
+## Hi there 👋🏻
 
 I'm Jorge, an iOS Software Engineer from Spain. I've worked with frameworks like React Native or Flutter but currently I'm focused on iOS app development with Swift.
 
