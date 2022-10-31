@@ -5,6 +5,7 @@ I'm Jorge, an iOS Software Engineer from Spain. I've worked with frameworks like
 - 👨🏻‍💻 Working at [Nomasystems S.L.](https://www.linkedin.com/company/nomasystems-s-l-/mycompany/)
 - 🌱 Learning SwiftUI framework
 - 🤔 I have always liked AI and how it can be used in mobile apps
+- 👀 I’m also interested in UX/UI and best coding practices
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/jorgmateos/)
 
 <!---
